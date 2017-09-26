@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Sample Application Table" max_length="40" name="x_0094_sample_appl_sample_application_table" type="collection"/>
+</database>

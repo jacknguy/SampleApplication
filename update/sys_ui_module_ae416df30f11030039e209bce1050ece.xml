@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sample Application">6e416df30f11030039e209bce1050ecc</application>
+        <filter/>
+        <name>Sample Application Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_0094_sample_appl.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-26 04:14:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ae416df30f11030039e209bce1050ece</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sample Application Table</sys_name>
+        <sys_package display_value="Sample Application" source="x_0094_sample_appl">f541ed730f11030039e209bce1050eaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample Application">f541ed730f11030039e209bce1050eaf</sys_scope>
+        <sys_update_name>sys_ui_module_ae416df30f11030039e209bce1050ece</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-26 04:14:36</sys_updated_on>
+        <table>x_0094_sample_appl_sample_application_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
